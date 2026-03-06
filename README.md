@@ -1,4 +1,6 @@
-# ![Rock Paper Scissors Game](image.png)Rock Paper Scissors Game
+# Rock Paper Scissors
+<p align ="center">
+<img src = "image.png" width="400" height ="400"></p>
 
 ## 📌 Description
 
