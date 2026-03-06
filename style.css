@@ -29,7 +29,7 @@ nav, footer{
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-radius: 5px;
+    border-radius: 10px;
     border: 5px solid transparent;
     background-color: rgba(255, 255, 255, 0.813);
 }
@@ -41,7 +41,7 @@ nav, footer{
 .actions div{
     width: 10dvw;
     background-color: white;
-    border: 1px solid black;
+    border: 1px solid rgb(150, 150, 150);
     border-radius: 10px;
     display: flex;
     justify-content: center;
@@ -53,8 +53,8 @@ nav, footer{
     
 .actions div:hover {
     cursor: pointer;
-    border: 2px solid black;
-    box-shadow: 5px 5px 2px lightskyblue;
+    border: 1px solid black;
+    box-shadow: 0px 0px 10px rgb(74, 175, 239);
 }
 h1{
     text-align: center;
@@ -113,7 +113,9 @@ h1{
 .footer-text {
   color: #2a2828;
   font-size: 15px;
-  margin-bottom: 5px;
+  height: 20px;
+  margin-bottom: 0px;
+  height: 100%;
   font-family: 'Times New Roman', Times, serif;
 }
 
