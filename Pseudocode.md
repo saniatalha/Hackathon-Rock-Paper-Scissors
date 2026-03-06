@@ -6,7 +6,7 @@ You almost certainly know the rules of the game, but let's have a look at them a
 - If both players choose the same item, it is a tie.
 - If player 1 chooses rock and player 2 chooses paper,   
    player 2 wins because paper wraps the rock.
-- If player 1 chooses rock and player 2 chooses scissors, player 1 wins because rock breaks scissors.
+- If player 1 chooses rock and player 2 chooses scissors,  player 1 wins because rock breaks scissors.
 - If player 1 chooses scissors and player 2 chooses paper, player 1 wins because scissors cut paper.
 
  

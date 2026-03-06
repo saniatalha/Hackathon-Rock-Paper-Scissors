@@ -36,7 +36,7 @@ function rockPaperScissors(e) {
     } else {
         computerWins++
         rpsWinner(playersChoice, computersChoice, "Computer Wins")
-        resultsBG.style.backgroundColor = "red"
+        resultsBG.style.backgroundColor = "#ff6464"
     }
 }
 

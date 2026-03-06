@@ -34,6 +34,10 @@ nav, footer{
     background-color: rgba(255, 255, 255, 0.813);
 }
 
+h1{
+    font-weight: bold;
+}
+
 .actions{
     display: flex;
     gap: 10px;
@@ -97,6 +101,10 @@ h1{
 }
 #winner{
     margin: 0px !important; 
+}
+
+#resetButton{
+    margin-top: 15px;
 }
 
 
